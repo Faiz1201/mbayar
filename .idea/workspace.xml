@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="194514a4-784c-4c3d-9177-e6cd62c2845b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config/cust_info/dump_8762010171736273235.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config/cust_info/dump_8762010171736273235.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config/pin/dump_374237279147121901.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config/pin/dump_374237279147121901.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config/profile/dump_4806543662516027549.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config/profile/dump_4806543662516027549.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config/profile/dump_5132394400162368369.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config/profile/dump_5132394400162368369.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config/profile/dump_6445560617764349691.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config/profile/dump_6445560617764349691.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config/profile/dump_8432910868601219838.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/config/profile/dump_8432910868601219838.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/credential/dump_1099296715435515180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/credential/dump_1099296715435515180.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/credential/dump_1281641135046338162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/credential/dump_1281641135046338162.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/credential/dump_1905828140442748760.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/credential/dump_1905828140442748760.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/credential/dump_2855793487050766864.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/credential/dump_2855793487050766864.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/home/dump_1807276317621257744.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/home/dump_1807276317621257744.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/home/dump_1816556966390033047.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/home/dump_1816556966390033047.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/home/dump_6646832327890844776.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/home/dump_6646832327890844776.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/result/e2pay168.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/result/e2pay233.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/result/e2pay346.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/result/e2pay377.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/result/e2pay648.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_2412999499749411682.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_2412999499749411682.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_2446761647552726974.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_2446761647552726974.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_5626201167571291416.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_5626201167571291416.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_5831085841466486629.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_5831085841466486629.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_6422465792069164626.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_6422465792069164626.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_6983831687896937032.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_6983831687896937032.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_7238597112354340203.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_7238597112354340203.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_8164347844690074825.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_8164347844690074825.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_8467701875166046492.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_8467701875166046492.uix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_88694035098003674.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voucher/dump_88694035098003674.uix" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feature/payment_feature.py" beforeDir="false" afterPath="$PROJECT_DIR$/feature/payment_feature.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runner/test_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/runner/test_runner.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="e2pay-appium" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/feature/credential_feature.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+                <marker date="1542617216590" expanded="true" signature="187:189" ph="..." />
+                <marker date="1542617216590" expanded="true" signature="187:7154" ph="..." />
+                <marker date="1542617216590" expanded="true" signature="2621:3118" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/feature/homepage_feature.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1125">
+              <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/feature/base_feature.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runner/value.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runner/base_runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runner/payment_runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runner/driver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runner/credential_runner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="68" column="74" selection-start-line="68" selection-start-column="74" selection-end-line="68" selection-end-column="74" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+                <element signature="e#372#558#0" />
+                <element signature="e#647#821#0" />
+                <element signature="e#889#1063#0" />
+                <element signature="e#1134#1313#0" />
+                <element signature="e#1382#1547#0" />
+                <element signature="e#1614#1794#0" />
+                <element signature="e#1869#2049#0" />
+                <element signature="e#2137#2325#0" />
+                <element signature="e#2392#2573#0" />
+                <element signature="e#2639#2828#0" />
+                <element signature="e#2892#3065#0" />
+                <element signature="e#3127#3314#0" />
+                <element signature="e#3378#3565#0" />
+                <element signature="e#4175#4361#0" />
+                <element signature="e#4426#4596#0" />
+                <element signature="e#4659#4845#0" />
+                <element signature="e#4914#5100#0" />
+                <element signature="e#5171#5356#0" />
+                <element signature="e#5419#5604#0" />
+                <element signature="e#5695#5911#0" />
+                <element signature="e#5968#6188#0" />
+                <element signature="e#6257#6477#0" />
+                <element signature="e#6545#6764#0" />
+                <element signature="e#6970#7016#0" />
+                <element signature="e#7073#7107#0" />
+                <element signature="e#7168#7216#0" />
+                <element signature="e#7264#7314#0" />
+                <element signature="e#7368#7428#0" />
+                <element signature="e#7485#7548#0" />
+                <element signature="e#7601#7650#0" />
+                <element signature="e#7707#7778#0" />
+                <element signature="e#7841#7918#0" />
+                <element signature="e#7987#8067#0" />
+                <element signature="e#8129#8199#0" />
+                <element signature="e#8461#8575#0" />
+                <element signature="e#8643#8758#0" />
+                <element signature="e#8822#8935#0" />
+                <element signature="e#9007#9120#0" />
+                <element signature="e#9198#9311#0" />
+                <element signature="e#9398#9498#0" />
+                <element signature="e#9571#9676#0" />
+                <element signature="e#9745#9851#0" />
+                <element signature="e#9928#10040#0" />
+                <element signature="e#10123#10235#0" />
+                <element signature="e#10294#10406#0" />
+                <marker date="1542769729060" expanded="true" signature="10059:10064" ph="..." />
+                <marker date="1542769729060" expanded="true" signature="10290:10294" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/feature/biller_feature.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runner/profile_runner.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>120194</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>150194</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mapper/base_mapper.py" />
+        <option value="$PROJECT_DIR$/mapper/res_ios.py" />
+        <option value="$PROJECT_DIR$/feature/transaction_feature.py" />
+        <option value="$PROJECT_DIR$/runner/transaction_runner.py" />
+        <option value="$PROJECT_DIR$/feature/profile_feature.py" />
+        <option value="$PROJECT_DIR$/feature/biller_feature.py" />
+        <option value="$PROJECT_DIR$/feature/base_feature.py" />
+        <option value="$PROJECT_DIR$/mapper/basemapper.py" />
+        <option value="$PROJECT_DIR$/feature/homepage_feature.py" />
+        <option value="$PROJECT_DIR$/feature/test_feature.py" />
+        <option value="$PROJECT_DIR$/runner/profile_runner.py" />
+        <option value="$PROJECT_DIR$/runner/payment_runner.py" />
+        <option value="$PROJECT_DIR$/runner/driver.py" />
+        <option value="$PROJECT_DIR$/runner/credential_runner.py" />
+        <option value="$PROJECT_DIR$/runner/biller_runner.py" />
+        <option value="$PROJECT_DIR$/runner/value.py" />
+        <option value="$PROJECT_DIR$/resource/res_android.py" />
+        <option value="$PROJECT_DIR$/mapper/credential.py" />
+        <option value="$PROJECT_DIR$/feature/payment_feature.py" />
+        <option value="$PROJECT_DIR$/runner/test_runner.py" />
+        <option value="$PROJECT_DIR$/runner/base_runner.py" />
+        <option value="$PROJECT_DIR$/feature/credential_feature.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="649" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="e2pay-appium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="e2pay-appium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="e2pay-appium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="e2pay-appium" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="e2pay-appium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="e2pay-appium" type="462c0819:PsiDirectoryNode" />
+              <item name="feature" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="e2pay-appium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="e2pay-appium" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="e2pay-appium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="e2pay-appium" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="e2pay-appium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="e2pay-appium" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="e2pay-appium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="e2pay-appium" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/faizal/PycharmProjects/e2pay-appium/mapper/credential.py&#10;z&#9;null&#9;null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in credential_runner.py">
+    <configuration name="Unittests for credential_runner.CredentialRunner.test_invalid_empty_number_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="e2pay-appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;credential_runner.CredentialRunner.test_invalid_empty_number_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for credential_runner.CredentialRunner.test_valid_forgot_pin" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="e2pay-appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;credential_runner.CredentialRunner.test_valid_forgot_pin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for credential_runner.CredentialRunner.test_valid_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="e2pay-appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;credential_runner.CredentialRunner.test_valid_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for runner.payment_runner.TransactionRunner.test_valid_prepaid_indosat" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="e2pay-appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;runner.payment_runner.TransactionRunner.test_valid_prepaid_indosat&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_runner.TestRunner.test_do_welcome_login" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="e2pay-appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="ANDROID_HOME" value="$USER_HOME$/Android/Sdk" />
+        <env name="ADB" value="$USER_HOME$/Android/Sdk/platform-tools" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_runner.TestRunner.test_do_welcome_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in credential_runner.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="e2pay-appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/runner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/runner/credential_runner.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for test_runner.TestRunner.test_do_welcome_login" />
+      <item itemvalue="Python tests.Unittests for credential_runner.CredentialRunner.test_invalid_empty_number_login" />
+      <item itemvalue="Python tests.Unittests for credential_runner.CredentialRunner.test_valid_forgot_pin" />
+      <item itemvalue="Python tests.Unittests for runner.payment_runner.TransactionRunner.test_valid_prepaid_indosat" />
+      <item itemvalue="Python tests.Unittests for credential_runner.CredentialRunner.test_valid_login" />
+      <item itemvalue="Python tests.Unittests in credential_runner.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in credential_runner.py" />
+        <item itemvalue="Python tests.Unittests for credential_runner.CredentialRunner.test_valid_login" />
+        <item itemvalue="Python tests.Unittests for runner.payment_runner.TransactionRunner.test_valid_prepaid_indosat" />
+        <item itemvalue="Python tests.Unittests for credential_runner.CredentialRunner.test_valid_forgot_pin" />
+        <item itemvalue="Python tests.Unittests for credential_runner.CredentialRunner.test_invalid_empty_number_login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="194514a4-784c-4c3d-9177-e6cd62c2845b" name="Default Changelist" comment="" />
+      <created>1536802479049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536802479049</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_credential_runner_CredentialRunner_test_valid_forgot_pin - 2018.10.25 at 10h 06m 39s.xml">
+      <configuration name="Unittests for credential_runner.CredentialRunner.test_valid_forgot_pin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_credential_runner_CredentialRunner_test_valid_forgot_pin - 2018.11.13 at 15h 53m 01s.xml">
+      <configuration name="Unittests for credential_runner.CredentialRunner.test_valid_forgot_pin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_credential_runner_CredentialRunner_test_valid_forgot_pin - 2018.11.13 at 15h 55m 43s.xml">
+      <configuration name="Unittests for credential_runner.CredentialRunner.test_valid_forgot_pin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_credential_runner_CredentialRunner_test_valid_forgot_pin - 2018.11.13 at 15h 56m 33s.xml">
+      <configuration name="Unittests for credential_runner.CredentialRunner.test_valid_forgot_pin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_credential_runner_CredentialRunner_test_valid_forgot_pin - 2018.11.13 at 16h 01m 46s.xml">
+      <configuration name="Unittests for credential_runner.CredentialRunner.test_valid_forgot_pin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_transaction_runner_TransactionRunner_test_valid_prepaid_indosat - 2018.11.19 at 11h 17m 11s.xml">
+      <configuration name="Unittests for transaction_runner.TransactionRunner.test_valid_prepaid_indosat" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_credential_runner_CredentialRunner_test_valid_login - 2018.11.21 at 10h 04m 10s.xml">
+      <configuration name="Unittests for credential_runner.CredentialRunner.test_valid_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_credential_runner_CredentialRunner_test_valid_login - 2018.11.21 at 10h 06m 41s.xml">
+      <configuration name="Unittests for credential_runner.CredentialRunner.test_valid_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_credential_runner_CredentialRunner_test_valid_login - 2018.11.21 at 10h 09m 51s.xml">
+      <configuration name="Unittests for credential_runner.CredentialRunner.test_valid_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_credential_runner_py - 2018.12.04 at 16h 43m 33s.xml">
+      <configuration name="Unittests in credential_runner.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8344827" visible="true" weight="0.28731045" />
+      <window_info id="Structure" order="1" sideWeight="0.5015625" side_tool="true" weight="0.21136364" />
+      <window_info id="Favorites" order="2" sideWeight="0.16551724" side_tool="true" weight="0.24166666" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960095" visible="true" weight="0.48859936" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49960095" visible="true" weight="0.3355049" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039905" side_tool="true" weight="0.32626426" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32736155" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Packages" order="3" weight="0.32960895" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.32960895" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/e2pay-appium" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mapper/res_ios.py" />
+    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/appium/webdriver/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="1037" selection-start-line="1037" selection-end-line="1037" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15255">
+          <caret line="1032" selection-start-line="1032" selection-end-line="1032" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/zipfile.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner/screenshot1.png" />
+    <entry file="file://$PROJECT_DIR$/runner/e2pay360.png" />
+    <entry file="file://$PROJECT_DIR$/runner/e2pay648.png" />
+    <entry file="file://$PROJECT_DIR$/runner/e2pay233.png" />
+    <entry file="file://$PROJECT_DIR$/venv/local/lib/python2.7/site-packages/appium/webdriver/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-302">
+          <caret line="1116" column="8" selection-start-line="1116" selection-start-column="8" selection-end-line="1116" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner/e2pay168.png" />
+    <entry file="file://$PROJECT_DIR$/runner/e2pay567.png" />
+    <entry file="file://$PROJECT_DIR$/runner/e2pay783.png" />
+    <entry file="file://$PROJECT_DIR$/runner/e2pay342.png" />
+    <entry file="file://$PROJECT_DIR$/runner/e2pay960.png" />
+    <entry file="file://$PROJECT_DIR$/runner/e2pay705.png" />
+    <entry file="file://$PROJECT_DIR$/runner/e2pay513.png" />
+    <entry file="file://$PROJECT_DIR$/runner/e2pay191.png" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/types.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="92" column="4" selection-start-line="92" selection-start-column="4" selection-end-line="92" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python2.7/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="58" column="54" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python2.7/types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature/profile_feature.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature/test_feature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner/biller_runner.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapper/basemapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature/payment_feature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="96" column="43" selection-start-line="96" selection-start-column="43" selection-end-line="96" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner/test_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mapper/credential.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <marker date="1542880626804" expanded="true" signature="745:1258" ph="..." />
+            <marker date="1542880626804" expanded="true" signature="1276:1605" ph="..." />
+            <marker date="1542880626804" expanded="true" signature="5366:5367" ph="..." />
+            <marker date="1542880626804" expanded="true" signature="5366:5371" ph="..." />
+            <marker date="1542880626804" expanded="true" signature="5591:5595" ph="..." />
+            <marker date="1542880626804" expanded="true" signature="5642:5647" ph="..." />
+            <marker date="1542880626804" expanded="true" signature="5815:5820" ph="..." />
+            <marker date="1542880626804" expanded="true" signature="5945:5950" ph="..." />
+            <marker date="1542880626804" expanded="true" signature="8330:8335" ph="..." />
+            <marker date="1542880626804" expanded="true" signature="8431:8436" ph="..." />
+            <marker date="1542880626804" expanded="true" signature="8491:8496" ph="..." />
+            <marker date="1542880626804" expanded="true" signature="8551:8556" ph="..." />
+            <marker date="1542880626804" expanded="true" signature="8702:8707" ph="..." />
+            <marker date="1542880626804" expanded="true" signature="8760:8765" ph="..." />
+            <marker date="1542880626804" expanded="true" signature="8821:8826" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/res_android.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature/homepage_feature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature/base_feature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner/value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner/payment_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner/driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature/biller_feature.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner/profile_runner.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner/base_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner/credential_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="68" column="74" selection-start-line="68" selection-start-column="74" selection-end-line="68" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+            <element signature="e#372#558#0" />
+            <element signature="e#647#821#0" />
+            <element signature="e#889#1063#0" />
+            <element signature="e#1134#1313#0" />
+            <element signature="e#1382#1547#0" />
+            <element signature="e#1614#1794#0" />
+            <element signature="e#1869#2049#0" />
+            <element signature="e#2137#2325#0" />
+            <element signature="e#2392#2573#0" />
+            <element signature="e#2639#2828#0" />
+            <element signature="e#2892#3065#0" />
+            <element signature="e#3127#3314#0" />
+            <element signature="e#3378#3565#0" />
+            <element signature="e#4175#4361#0" />
+            <element signature="e#4426#4596#0" />
+            <element signature="e#4659#4845#0" />
+            <element signature="e#4914#5100#0" />
+            <element signature="e#5171#5356#0" />
+            <element signature="e#5419#5604#0" />
+            <element signature="e#5695#5911#0" />
+            <element signature="e#5968#6188#0" />
+            <element signature="e#6257#6477#0" />
+            <element signature="e#6545#6764#0" />
+            <element signature="e#6970#7016#0" />
+            <element signature="e#7073#7107#0" />
+            <element signature="e#7168#7216#0" />
+            <element signature="e#7264#7314#0" />
+            <element signature="e#7368#7428#0" />
+            <element signature="e#7485#7548#0" />
+            <element signature="e#7601#7650#0" />
+            <element signature="e#7707#7778#0" />
+            <element signature="e#7841#7918#0" />
+            <element signature="e#7987#8067#0" />
+            <element signature="e#8129#8199#0" />
+            <element signature="e#8461#8575#0" />
+            <element signature="e#8643#8758#0" />
+            <element signature="e#8822#8935#0" />
+            <element signature="e#9007#9120#0" />
+            <element signature="e#9198#9311#0" />
+            <element signature="e#9398#9498#0" />
+            <element signature="e#9571#9676#0" />
+            <element signature="e#9745#9851#0" />
+            <element signature="e#9928#10040#0" />
+            <element signature="e#10123#10235#0" />
+            <element signature="e#10294#10406#0" />
+            <marker date="1542769729060" expanded="true" signature="10059:10064" ph="..." />
+            <marker date="1542769729060" expanded="true" signature="10290:10294" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature/credential_feature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+            <marker date="1542617216590" expanded="true" signature="187:189" ph="..." />
+            <marker date="1542617216590" expanded="true" signature="187:7154" ph="..." />
+            <marker date="1542617216590" expanded="true" signature="2621:3118" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
